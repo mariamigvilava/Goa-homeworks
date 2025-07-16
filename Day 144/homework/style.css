@@ -1,0 +1,78 @@
+body{
+    background-image: url(main.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    
+    
+}
+
+.mxatvari{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fdd0a0;
+}
+
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 10px;
+}
+
+
+
+
+
+.vangogh{
+     background-color: #0d6051;
+     font-size: 30px;
+     border-radius: 25px;
+     color: #989560;
+     display: block;
+   
+
+}
+
+
+.nikopirosmani{
+    background-color: #c7ce9f;
+    font-size: 30px;
+    border-radius: 25px;
+    color: #848e58;
+
+}
+
+
+.slavador{
+    background-color: #464137;
+    font-size: 30px;
+    border-radius: 25px;
+    color: #6d5325;
+}
+
+
+.leonardo{
+    background-color: #df9a61;
+    font-size: 30px;
+    border-radius: 25px;
+    color: #9b4a21;
+}
+
+
+.henri{
+    background-color:#4c2f2e ;
+    font-size: 30px;
+    border-radius: 25px;
+    color: #784340;
+}
+
+
+
+
+

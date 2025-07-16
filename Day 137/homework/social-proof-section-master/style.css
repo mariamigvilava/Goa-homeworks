@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=League+Spartan:wght@100..900&family=Lexend+Deca:wght@100..900&family=Mrs+Saint+Delafield&family=Outfit:wght@100..900&family=Parkinsans:wght@300..800&family=Press+Start+2P&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "League Spartan", sans-serif;
+
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    gap: 50px;
+}
+.h1{
+    font-size: 3.5rem;
+    color: hsl(300, 43%, 22%)
+}
+
+p{
+    font-size: 15px;
+    
+}
+.main{
+    width: 50%;
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    flex-direction: column;
+    gap: 29.99px;
+}
+
+.p1{
+    line-height: 1.5;
+    width: 70%;
+    color: hsl(303, 10%, 53%);
+}
+
+.mainest{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 75.99%;
+    
+}
+.main2{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    left: 40px;
+}
+
+
+.div1{
+    background-color: hsl(300, 24%, 96%);
+    display: flex;
+    gap: 30.01px;
+    padding-left: 30px;
+    align-items: center;
+    height: 57.99px;
+    margin: 10px;
+    width: 450px;
+    font-weight: 800;
+    border-radius: 10px;
+    position: relative;
+}
+
+
+.div5{
+    width: 320px;
+    
+    background-color:hsl(300, 43%, 22%) ;
+    border-radius: 5px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.p6{
+    color: white;
+    line-height: 20px;
+    font-size:15px ;
+}
+
+.div5 img{
+    border-radius: 50%;
+    width: 43px;
+}
+
+.div6 {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    line-height: 1.3;
+}
+
+span{
+    color:hsl(333, 80%, 67%)
+}
+
+.p4{
+    color: white;
+}
+.divikoo{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;  
+    width: 76.99%;
+}
+.p2{
+    color: hsl(300, 43%, 22%);
+}
+
+.div3{
+     color: hsl(300, 43%, 22%);
+     position: relative;
+     left: 80px;
+}
+
+.div2{
+    position: relative;
+    left: 40px;
+
+}
+
+
+

@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .bill-table {
+    width: 80%;
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  caption {
+    caption-side: top;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  thead th {
+    background-color: #8aa95b;
+    color: white;
+  }
+  
+  tfoot td {
+    font-size: 16px;
+    background-color: #eee;
+  }

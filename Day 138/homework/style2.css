@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+
+}
+
+.green{
+    background-color: green;
+    height: 400px;
+    width: 100%;
+    border: 5px solid black;
+}
+
+.red{
+    height: 500px;
+    width: 100%;
+    background-color: red;
+    border: 5px solid black;
+}
+
+.parent{
+    display: flex;
+    flex-direction: row;
+}
+
+.parent2{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border: 5px solid black;
+    
+}
+
+
+.orange{
+    height: 250px;
+    width: 100%;
+    background-color: orange;
+    border: 5px solid black;
+
+}
+
+.yellow{
+    height: 250px;
+    width: 100%;
+    background-color:  yellow;
+    border: 5px solid black;
+
+}

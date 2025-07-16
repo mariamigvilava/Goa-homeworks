@@ -1,0 +1,26 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    overflow: hidden;
+    
+}
+.img{
+    width: 500px;
+    
+}
+
+.p1{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(214, 197, 171);
+}
+
+.img1{
+    position: absolute;
+    z-index: -1;
+    height: 150vh;
+
+}

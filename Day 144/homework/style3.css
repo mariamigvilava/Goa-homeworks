@@ -1,0 +1,51 @@
+body{
+    background-image: url(niko.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center; 
+}
+
+
+.p1{
+    color: greenyellow;
+    font-size: 20px;
+}
+
+
+.h1{
+    color: cadetblue;
+}
+
+
+
+.niko{
+      width: 300px;
+}
+
+
+.div{
+    display: flex;
+
+}
+.niko2{
+    width: 300px;
+    position: relative;
+    bottom: 390px;
+
+
+
+}
+
+
+
+
+
+.niko3{
+    width: 300px;
+    position:relative ;
+    bottom: 780px;
+    left: 390px;
+    
+}

@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+
+.pp1{
+    color: brown;
+    text-decoration: solid;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 3px 3px 1px rgb(223, 207, 207);
+    
+    
+    
+}
+.img3{
+    width: 300px;
+}
